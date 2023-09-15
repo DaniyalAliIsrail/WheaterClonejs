@@ -1,1 +1,1 @@
-# WheaterClonejs
+# weather-app
